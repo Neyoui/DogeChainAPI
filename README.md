@@ -22,7 +22,7 @@ Feedback & Bugreport: If you want to give me feedback or you find a Bug, than ju
 
 
 Donate: Feel free to donate something.<br />
-Donate Address: DSHm1KireZW22EaMTXYB2dXKvo2BVf1iSk (Dogecoin)<br />
-Donate Address: 16qGX5wggVB3XbvYGcM7E4k7YVVTr4mx9X (Bitcoin)<br />
-Donate Address: N5WbYVk4LyE4qxoWYjzZPTqKcCFDJKVaxs (Namecoin)<br />
+Donate Address: D72cQfgoY5ToQqGwziLCtE984PvJ7RdXns (Dogecoin)<br />
+Donate Address: 1LfJiAkZnAc6gkRTaHSitm7xvkg1hMaNpZ (Bitcoin)<br />
+Donate Address: N6M1qUcVNaowiqdUArtxWjdjfTkHFBhNe4 (Namecoin)<br />
 
