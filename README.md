@@ -1,7 +1,5 @@
 DogeChainAPI
 =======
-Release: 07.04.2014 - 21:00<br />
-
 
 Class: DogeChainAPI<br />
 Description: A PHP Class for dogechain.info developer API<br />
