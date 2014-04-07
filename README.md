@@ -1,4 +1,4 @@
-DogeAPI
+DogeChainAPI
 =======
 Release: 07.04.2014 - 21:00<br />
 
