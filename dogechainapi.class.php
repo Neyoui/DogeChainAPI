@@ -3,9 +3,9 @@
 /*
  * @ Class: DogeChainAPI
  * @ Description: A PHP Class for dogechain.info developer API
- * @ Last change: 07.04.2014
+ * @ Last change: 08.04.2014
  *
- * @ Version: 1.0.0
+ * @ Version: 1.0.1
  * @ Copyright: 2014 www.mr-anderson.org
  * @ License: http://creativecommons.org/licenses/by-sa/4.0/
  * @ Author: Markus Tressel <support@mr-anderson.org>
