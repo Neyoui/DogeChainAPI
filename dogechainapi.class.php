@@ -272,7 +272,7 @@ class DogeChainAPI {
         $request_build = "nethash/".$interval."/".$start."/";
 
         if($stop != NULL) {
-            $request_build .= "/".$stop;
+            $request_build .= "/".$stop."/";
         }
 
         $request_build .= "?format=json";
